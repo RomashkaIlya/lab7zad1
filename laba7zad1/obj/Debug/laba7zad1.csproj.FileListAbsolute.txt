@@ -1,0 +1,8 @@
+D:\promapirovanie\laba7zad1\laba7zad1\bin\Debug\laba7zad1.exe.config
+D:\promapirovanie\laba7zad1\laba7zad1\bin\Debug\laba7zad1.exe
+D:\promapirovanie\laba7zad1\laba7zad1\bin\Debug\laba7zad1.pdb
+D:\promapirovanie\laba7zad1\laba7zad1\obj\Debug\laba7zad1.csproj.AssemblyReference.cache
+D:\promapirovanie\laba7zad1\laba7zad1\obj\Debug\laba7zad1.csproj.SuggestedBindingRedirects.cache
+D:\promapirovanie\laba7zad1\laba7zad1\obj\Debug\laba7zad1.csproj.CoreCompileInputs.cache
+D:\promapirovanie\laba7zad1\laba7zad1\obj\Debug\laba7zad1.exe
+D:\promapirovanie\laba7zad1\laba7zad1\obj\Debug\laba7zad1.pdb
